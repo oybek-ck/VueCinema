@@ -40,7 +40,9 @@ ul {
     justify-content: center;
     column-gap: 24px;
 }
-
+.reklama.second{
+    background: linear-gradient(90.09deg, #a20c0c 0%, #1e9e49 97.52%, #888fab 100%, #c2005b 100%);
+}
 .reklama__txt {
     font-size: 16px;
     line-height: 18px;
